@@ -6,7 +6,9 @@ public class operators
       System.out.println(9-7);
       System.out.println(8*7);
       System.out.println(9/2);
-      System.out.println(13%5);
+      
+      System.out.println(13%5); 
 
+ 
     }
 }
