@@ -10,6 +10,7 @@ public class scanner_class {
         System.out.println("please enter a fractiona number");
         double num2 = sc.nextDouble();
         System.out.println(num2);
+        // git has been created 
 
     }
 }
